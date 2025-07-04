@@ -20,7 +20,7 @@ src/
 │ └── resources/
 │ └── testng.xml
 
-```yaml
+
 
 
 ---
@@ -37,12 +37,12 @@ src/
 
 ## 🚀 Setup & Run Instructions
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/your-username/SauceDemoTestAutomation.git
+
+https://github.com/furkankadirogullari/hw10_projera_pom.git
 cd SauceDemoTestAutomation
-```
+
 2️⃣ Install Dependencies
 Make sure you have Maven installed, then run:
 
