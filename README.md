@@ -3,25 +3,6 @@
 This project is an automated UI test for the login functionality of [https://www.saucedemo.com](https://www.saucedemo.com).  
 It is implemented using **Java**, **Selenium WebDriver**, **TestNG**, and follows the **Page Object Model (POM)** design pattern.
 
----
-
-## 📂 Project Structure
-
-src/
-├── test/
-│ ├── java/
-│ │ └── com/saucedemo/
-│ │ ├── base/
-│ │ │ └── BaseTest.java
-│ │ ├── pages/
-│ │ │ └── LoginPage.java
-│ │ └── tests/
-│ │ └── LoginTest.java
-│ └── resources/
-│ └── testng.xml
-
-
-
 
 ---
 ## 🛠 Technologies Used
@@ -41,6 +22,7 @@ src/
 
 
 https://github.com/furkankadirogullari/hw10_projera_pom.git
+
 cd SauceDemoTestAutomation
 
 2️⃣ Install Dependencies
